@@ -191,7 +191,3 @@ For issues, feature requests, or bug reports, please open an issue in the GitHub
 - Machine learning-driven competency mapping
 
 ---
-```
-
-
-Where are you aiming with it?
